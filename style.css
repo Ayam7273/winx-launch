@@ -197,7 +197,7 @@ section{
 
     .home-img img{
         margin-top: 50px;
-        width: 50%;
+        width: 100%;
         min-width: 600px;
     }
 
@@ -240,7 +240,7 @@ section{
 
     .home-img img{
         margin-top: 30px;
-        width: 50%;
+        width: 100%;
         min-width: 600px;
     }
 
