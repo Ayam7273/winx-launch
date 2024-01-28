@@ -203,12 +203,14 @@ section{
     .home-img{
         text-align: center;
     }
-
     
     .logo img {
         margin: 0px;
     }
 
+    nav ul li a button{
+        margin-right: 0px; 
+    }
   
 
 }
@@ -252,4 +254,7 @@ section{
         margin: 0px;
     }
 
+    nav ul li a button{
+        margin-right: 0px; 
+    }
 }
