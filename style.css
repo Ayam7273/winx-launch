@@ -114,13 +114,12 @@ section{
 }
 
 .home-text h1{
-    font-size: 40px;
     color: #191A15;
     font-weight: 700;
     font-family: Gelion;
-    font-size: 58px;
+    font-size: 50px;
     line-height: 75px;
-    margin: 25px 0 30px;
+    margin: 15px 0 10px;
 }
 
 .divider img{
