@@ -21,7 +21,7 @@ body{
 
 .logo img {
     width: 124px;
-    height: px;
+    /* width: 200px; */
     margin: 0px 50px;
 }
 
@@ -77,7 +77,8 @@ nav ul li button:hover{
 
 
 section{
-    padding: 150px 6%; 
+    /* padding: 150px 6%;  */
+    padding: 200px 6%; 
     
 }
 
@@ -120,6 +121,11 @@ section{
     font-size: 50px;
     line-height: 75px;
     margin: 15px 0 10px;
+}
+
+.home-text h1 span{
+    color: #FF6A00;
+    position: static;
 }
 
 .divider img{
@@ -189,9 +195,12 @@ section{
         text-align: center;
         padding-top: 80px;
     }
+
+   
     
     .home-text h1 span{
         position: static;
+
     }
 
     .home-img img{
